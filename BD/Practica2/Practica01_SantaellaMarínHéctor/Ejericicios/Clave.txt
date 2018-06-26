@@ -1,0 +1,4 @@
+Abres el IDE NetBeans
+En caso de no contar con el IDE
+Descargar https://netbeans.org/downloads/?pagelang=pt_BR o versiones posteriores. Entrar al IDE y seleccionar Abrir Proyecto buscar la carpeta y seleccionar .
+Correr el programa.
